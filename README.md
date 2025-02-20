@@ -73,7 +73,7 @@
 
 ###
 
-[https://raw.githubusercontent.com/M-416U/M-416U/output/snake.svg](https://github.com/M-416U/M-416U/blob/output/snake.svg)
+<img src="https://github.com/M-416U/M-416U/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
