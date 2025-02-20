@@ -1,8 +1,4 @@
 <div align="center">
-  <img height="500" src="https://i.pinimg.com/originals/b6/de/8a/b6de8ac84bbb0f17c01ce2840d4cecfe.gif"  />
-</div>
-###
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=M-416U&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M-416U&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
@@ -78,5 +74,11 @@
 ###
 
 <img src="https://raw.githubusercontent.com/M-416U/M-416U/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img height="500" src="https://i.pinimg.com/originals/b6/de/8a/b6de8ac84bbb0f17c01ce2840d4cecfe.gif"  />
+</div>
 
 ###
